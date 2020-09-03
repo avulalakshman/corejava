@@ -1,0 +1,86 @@
+1. Write a program to accept a number from the user and determine whether it is even or odd.
+
+	Expected output:
+	
+	Enter a number:
+	15
+	The entered number 15 is odd
+	
+	Enter a number
+	10
+	The entered number 10 is even
+	
+2.   Write a program to accept two numbers from the user and determine bigger of the two.
+
+	Expected output:
+	
+	Enter the first number num1:
+	20
+	Enter the second number num2:
+	45
+	
+	The bigger of the two numbers entered (20 and 45) is: 45
+	
+3.  Write a program to accept two numbers num1 and num2; when one is subtracted from the other, the result should always be a positive number.
+
+	Expected output:
+	
+	Enter the first number num1:
+	35
+	Enter the second number num2:
+	45
+	The result (difference) is: 10
+	
+	Enter the first number num1:
+	45
+	Enter the second number num2:
+	35
+	The result (difference) is: 15
+	
+4. In a shopping mall, privileged customers (if they have a membership card) are being given a 10% discount on the billed amount, and the others are being given a 3% discount. Write a program to accept the billing amount and confirm the membership card from the customer; calculate and display the net amount to be paid by the customer.
+
+	Expected output:
+	
+	Enter the bill amount:
+	5000
+	Do you have a membership card?
+	Y
+	Thank you! Your total bill amount is Rs 5000, discount is Rs 500 and net amount payable is Rs 4500.
+	
+	
+	Enter the bill amount:
+	5000
+	Do you have a membership card?
+	N
+	Thank you! Your total bill amount is Rs 5000, discount is Rs 150 and net amount payable is Rs 4850.
+	
+IF – ELSE – IF Statement
+
+5. Write a program to accept 3 numbers from the user and find the biggest of them.
+
+	Expected output:
+	
+	Enter the 1st number num1:
+	45
+	Enter the 2nd number num2:
+	75
+	Enter the 3rd number num3:
+	45
+	The biggest of the 3 numbers entered is: 75
+	
+6.   Write a program to accept the marks scored in three subjects; determine the sum and average of the entered marks. Grade is awarded based on following criteria.
+
+	If average is < 35 -- “C”; >35 and <60 -- “B”; Otherwise -- “A”
+	
+	Expected output:
+	
+	Enter the marks scored in 1st subject:
+	40
+	Enter the marks scored in 2nd subject:
+	60
+	Enter the marks scored in 3rd subject:
+	80
+	
+	Total marks: 180
+	Average is: 60.0
+	Grade: “B”
