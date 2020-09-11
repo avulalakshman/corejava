@@ -1,11 +1,15 @@
 package com.careerit.cj.day8;
 
 public class StringAssignment {
-
+	
+	public static void main(String[] args) {
+		
+	}
 	
 	
 	
 	public static void displayNameOfGivenGender(String gender) {
+		// Read from file (names.txt) 
 		
 	}
 	
