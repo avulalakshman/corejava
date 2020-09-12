@@ -1,0 +1,233 @@
+countryCode,country,count,rank
+CN,China,1439323.776,1
+IN,India,1380004.385,2
+US,United States,331002.651,3
+ID,Indonesia,273523.615,4
+PK,Pakistan,220892.34,5
+BR,Brazil,212559.417,6
+NG,Nigeria,206139.589,7
+BD,Bangladesh,164689.383,8
+RU,Russia,145934.462,9
+MX,Mexico,128932.753,10
+JP,Japan,126476.461,11
+ET,Ethiopia,114963.588,12
+PH,Philippines,109581.078,13
+EG,Egypt,102334.404,14
+VN,Vietnam,97338.579,15
+CD,DR Congo,89561.403,16
+DE,Germany,83783.942,19
+TR,Turkey,84339.067,17
+IR,Iran,83992.949,18
+TH,Thailand,69799.978,20
+GB,United Kingdom,67886.011,21
+FR,France,65273.511,22
+IT,Italy,60461.826,23
+ZA,South Africa,59308.69,25
+TZ,Tanzania,59734.218,24
+MM,Myanmar,54409.8,26
+KE,Kenya,53771.296,27
+KR,South Korea,51269.185,28
+CO,Colombia,50882.891,29
+ES,Spain,46754.778,30
+AR,Argentina,45195.774,32
+UG,Uganda,45741.007,31
+UA,Ukraine,43733.762,35
+DZ,Algeria,43851.044,33
+SD,Sudan,43849.26,34
+IQ,Iraq,40222.493,36
+AF,Afghanistan,38928.346,37
+PL,Poland,37846.611,38
+CA,Canada,37742.154,39
+MA,Morocco,36910.56,40
+SA,Saudi Arabia,34813.871,41
+UZ,Uzbekistan,33469.203,42
+PE,Peru,32971.854,43
+MY,Malaysia,32365.999,45
+AO,Angola,32866.272,44
+GH,Ghana,31072.94,47
+MZ,Mozambique,31255.435,46
+YE,Yemen,29825.964,48
+NP,Nepal,29136.808,49
+VE,Venezuela,28435.94,50
+MG,Madagascar,27691.018,51
+CM,Cameroon,26545.863,52
+CI,Ivory Coast,26378.274,53
+KP,North Korea,25778.816,54
+AU,Australia,25499.884,55
+TW,Taiwan,23816.775,57
+NE,Niger,24206.644,56
+LK,Sri Lanka,21413.249,58
+BF,Burkina Faso,20903.273,59
+ML,Mali,20250.833,60
+RO,Romania,19237.691,61
+CL,Chile,19116.201,63
+MW,Malawi,19129.952,62
+KZ,Kazakhstan,18776.707,64
+ZM,Zambia,18383.955,65
+GT,Guatemala,17915.568,66
+EC,Ecuador,17643.054,67
+NL,Netherlands,17134.872,69
+SY,Syria,17500.658,68
+KH,Cambodia,16718.965,71
+SN,Senegal,16743.927,70
+TD,Chad,16425.864,72
+SO,Somalia,15893.222,73
+ZW,Zimbabwe,14862.924,74
+GN,Guinea,13132.795,75
+RW,Rwanda,12952.218,76
+BJ,Benin,12123.2,77
+TN,Tunisia,11818.619,79
+BE,Belgium,11589.623,81
+BI,Burundi,11890.784,78
+BO,Bolivia,11673.021,80
+CU,Cuba,11326.616,83
+HT,Haiti,11402.528,82
+SS,South Sudan,11193.725,84
+DO,Dominican Republic,10847.91,85
+CZ,Czech Republic,10708.981,86
+GR,Greece,10423.054,87
+PT,Portugal,10196.709,89
+JO,Jordan,10203.134,88
+AZ,Azerbaijan,10139.177,90
+SE,Sweden,10099.265,91
+AE,United Arab Emirates,9890.402,93
+HN,Honduras,9904.607,92
+HU,Hungary,9660.351,94
+BY,Belarus,9449.323,96
+TJ,Tajikistan,9537.645,95
+AT,Austria,9006.398,97
+PG,Papua New Guinea,8947.024,98
+RS,Serbia,8737.371,99
+CH,Switzerland,8654.622,101
+IL,Israel,8655.535,100
+TG,Togo,8278.724,102
+SL,Sierra Leone,7976.983,103
+HK,Hong Kong,7496.981,104
+LA,Laos,7275.56,105
+PY,Paraguay,7132.538,106
+BG,Bulgaria,6948.445,107
+LB,Lebanon,6825.445,109
+LY,Libya,6871.292,108
+NI,Nicaragua,6624.554,110
+SV,El Salvador,6486.205,112
+KG,Kyrgyzstan,6524.195,111
+TM,Turkmenistan,6031.2,113
+SG,Singapore,5850.342,114
+DK,Denmark,5792.202,115
+FI,Finland,5540.72,116
+SK,Slovakia,5459.642,118
+CG,Republic of the Congo,5518.087,117
+NO,Norway,5421.241,119
+CR,Costa Rica,5094.118,122
+PS,Palestine,5101.414,121
+OM,Oman,5106.626,120
+LR,Liberia,5057.681,123
+IE,Ireland,4937.786,124
+NZ,New Zealand,4822.233,126
+CF,Central African Republic,4829.767,125
+MR,Mauritania,4649.658,127
+PA,Panama,4314.767,128
+KW,Kuwait,4270.571,129
+HR,Croatia,4105.267,130
+MD,Moldova,4033.963,131
+GE,Georgia,3989.167,132
+ER,Eritrea,3546.421,133
+UY,Uruguay,3473.73,134
+BA,Bosnia and Herzegovina,3280.819,135
+MN,Mongolia,3278.29,136
+AM,Armenia,2963.243,137
+JM,Jamaica,2961.167,138
+PR,Puerto Rico,2860.853,141
+AL,Albania,2877.797,140
+QA,Qatar,2881.053,139
+LT,Lithuania,2722.289,142
+NA,Namibia,2540.905,143
+GM,Gambia,2416.668,144
+BW,Botswana,2351.627,145
+GA,Gabon,2225.734,146
+LS,Lesotho,2142.249,147
+MK,Macedonia,2083.374,148
+SI,Slovenia,2078.938,149
+GW,Guinea-Bissau,1968.001,150
+LV,Latvia,1886.198,151
+BH,Bahrain,1701.575,152
+TT,Trinidad and Tobago,1399.488,154
+GQ,Equatorial Guinea,1402.985,153
+EE,Estonia,1326.535,155
+TL,Timor-Leste,1318.445,156
+MU,Mauritius,1271.768,157
+CY,Cyprus,1207.359,158
+SZ,Swaziland,1160.164,159
+DJ,Djibouti,988,160
+FJ,Fiji,896.445,161
+RE,Reunion,895.312,162
+KM,Comoros,869.601,163
+GY,Guyana,786.552,164
+BT,Bhutan,771.608,165
+SB,Solomon Islands,686.884,166
+MO,Macau,649.335,167
+ME,Montenegro,628.066,168
+LU,Luxembourg,625.978,169
+EH,Western Sahara,597.339,170
+SR,Suriname,586.632,171
+CV,Cape Verde,555.987,172
+MV,Maldives,540.544,173
+MT,Malta,441.543,174
+BN,Brunei,437.479,175
+GP,Guadeloupe,400.124,176
+BZ,Belize,397.628,177
+BS,Bahamas,393.244,178
+MQ,Martinique,375.265,179
+IS,Iceland,341.243,180
+VU,Vanuatu,307.145,181
+GF,French Guiana,298.682,182
+BB,Barbados,287.375,183
+NC,New Caledonia,285.498,184
+PF,French Polynesia,280.908,185
+YT,Mayotte,272.815,186
+ST,Sao Tome and Principe,219.159,187
+WS,Samoa,198.414,188
+LC,Saint Lucia,183.627,189
+GU,Guam,168.775,190
+CW,Curacao,164.093,191
+KI,Kiribati,119.449,192
+FM,Micronesia,115.023,193
+GD,Grenada,112.523,194
+VC,Saint Vincent and the Grenadines,110.94,195
+AW,Aruba,106.766,196
+VI,United States Virgin Islands,104.425,198
+TO,Tonga,105.695,197
+SC,Seychelles,98.347,199
+AG,Antigua and Barbuda,97.929,200
+IM,Isle of Man,85.033,201
+AD,Andorra,77.265,202
+DM,Dominica,71.986,203
+KY,Cayman Islands,65.722,204
+BM,Bermuda,62.278,205
+MH,Marshall Islands,59.19,206
+MP,Northern Mariana Islands,57.559,207
+GL,Greenland,56.77,208
+AS,American Samoa,55.191,209
+KN,Saint Kitts and Nevis,53.199,210
+FO,Faroe Islands,48.863,211
+SX,Sint Maarten,42.876,212
+MC,Monaco,39.242,213
+TC,Turks and Caicos Islands,38.717,214
+LI,Liechtenstein,38.128,216
+MF,Saint Martin,38.666,215
+SM,San Marino,33.931,217
+GI,Gibraltar,33.691,218
+VG,British Virgin Islands,30.231,219
+PW,Palau,18.094,220
+CK,Cook Islands,17.564,221
+AI,Anguilla,15.003,222
+TV,Tuvalu,11.792,223
+WF,Wallis and Futuna,11.239,224
+NR,Nauru,10.824,225
+BL,Saint Barthelemy,9.877,226
+PM,Saint Pierre and Miquelon,5.794,227
+MS,Montserrat,4.992,228
+FK,Falkland Islands,3.48,229
+NU,Niue,1.626,230
+TK,Tokelau,1.357,231
+VA,Vatican City,0.801,232
