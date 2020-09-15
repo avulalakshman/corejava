@@ -15,11 +15,12 @@ public class AccountManager {
 		Account acc9 = new Account(1080, "Lavanya", 150000);
 		Account acc10 = new Account(1090, "Nagamani", 12000);
 
-		Account[] accArr = { acc1, acc2, acc3, acc4, acc5, acc6, acc7, acc8, acc9, acc10 };
+		Account accArr[] = { acc1, acc2, acc3, acc4, acc5, acc6, acc7, acc8, acc9, acc10 };
 		
 		for(Account acc:accArr) {
 			acc.deposite(5000);
 		}
+		
 		
 		
 		
