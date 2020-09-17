@@ -7,6 +7,7 @@ public class Account  {
 	String name;
 	double balance;
 
+
 	public Account(String accNumber, String name, double balance) {
 		super();
 		this.accNumber = accNumber;
