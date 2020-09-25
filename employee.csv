@@ -1,4 +1,4 @@
-empno,ename,job,salary
+empno,ename,dept,salary
 1001,Krish,DEV,95000
 1002,Manoj,DEV,35000
 1003,Rajesh,QA,45000
