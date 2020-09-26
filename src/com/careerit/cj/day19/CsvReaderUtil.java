@@ -15,7 +15,6 @@ public final class CsvReaderUtil {
 
 	public static List<Employee> loadEmployees() {
 		List<Employee> empList = new ArrayList<Employee>();
-
 		try {
 			List<String> lines = Files.readAllLines(Paths.get("employee.csv"));
 			empList = lines.stream().skip(1).map(line -> convertToEmployee(line)).collect(Collectors.toList());
