@@ -1,20 +1,28 @@
 package com.careerit.cj.day20;
 
 import java.util.List;
+import java.util.stream.Collectors;
 
-public class CouserStatImpl implements CourseStat{
+public class CourseStatImpl implements CourseStat {
 
-	
+	private List<Student> studentList;
+
+	public CourseStatImpl() {
+		studentList = CsvReaderUtil.loadDataFromFile();
+	}
+
 	@Override
 	public List<Student> studentsByQualification(String qualification) {
-		// TODO Auto-generated method stub
-		return null;
+		return studentList.stream()
+				.filter(e -> e.getQualification().equalsIgnoreCase(qualification))
+				.collect(Collectors.toList());
 	}
 
 	@Override
 	public int getStudentCountByQualification(String qualification) {
-		// TODO Auto-generated method stub
-		return 0;
+		return studentList.stream()
+		.filter(e -> e.getQualification().equalsIgnoreCase(qualification))
+		.collect(Collectors.toList()).size();
 	}
 
 	@Override
