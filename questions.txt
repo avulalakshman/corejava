@@ -1,0 +1,15 @@
+#1
+Which of the following is not valid data type in Java?
+int,float,string,double,string
+#2
+which of the following is not valid keyword of Java?
+int,if,try,finalize,finalize
+#3
+What is the output of 10 >> 2?
+10,5,2,40,2
+#4
+what is the value of res  (a=10,b=20,c=30) int res = (a>b)?a:(b>c)?b:c;
+10,20,30,25,30
+#5
+Which of the following is not valid operator in Java?
+!,==,===,<,===
